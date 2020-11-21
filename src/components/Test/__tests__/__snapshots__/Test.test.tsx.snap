@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test should match snapshout with data 1`] = `
+<p>
+  text
+</p>
+`;
+
+exports[`Test should match snapshout without data 1`] = `
+<p>
+  laoding...
+</p>
+`;
